@@ -1,5 +1,5 @@
 <?php
-	//jobdesk oleh Laudia
+	//jobdesk oleh Laudia Olivianita TI3C
 	class Users extends CI_Controller {
 	
 		function __construct (){

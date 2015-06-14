@@ -1,0 +1,15 @@
+KELOMPOK BAGIAN GUDANG - TI3C
+
+ANGGOTA:
+1. Aditya Saputra
+2. Hendry Setio Prakoso
+3. Herda Prasetyo
+4. Ivenulut Rizki
+5. Laudia Olivianita
+
+JOBDESC TIAP ANAK:
+1. Bahan Masuk = Aditya Saputra
+2. Bahan Keluar = Hendry Setio P
+3. Jenis Bahan = Herda Prasetyo
+4. Login dan Data User = Laudia Olivianita
+5. Tampilan semua bagian dan Data Barang yang Ready = Ivenulut Rizki

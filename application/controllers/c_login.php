@@ -1,5 +1,5 @@
 <?php
-	//jobdesk oleh Laudia
+	//jobdesc oleh Laudia Olivianita
 	class C_login extends CI_Controller{
 	
 		public function index(){ 

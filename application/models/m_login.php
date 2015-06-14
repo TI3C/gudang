@@ -1,5 +1,5 @@
 <?php
-
+	//jobdesk oleh Laudia
 	class M_login Extends CI_Model{
 	function login($username, $password){
 			$this->db->select('*');

@@ -1,5 +1,5 @@
 <?php
-	//jobdesc oleh Laudia Olivianita
+	//jobdesc oleh Laudia Olivianita TI3C
 	class C_login extends CI_Controller{
 	
 		public function index(){ 

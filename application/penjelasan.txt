@@ -1,0 +1,4 @@
+PENJELASAN :
+
+- admin gudang : orang-orang yang bekerja di bagian gudang 
+- user 	         : orang-orang yang berada di luar bagian gudang (bagian maintenance,produksi,penjualan,keuangan,kepegawaian)
